@@ -1,6 +1,6 @@
 {
   "name": "@maikovskii-danil/eslint-config-js",
-  "version": "4.0.0",
+  "version": "4.0.1",
   "prettier": "@maikovskii-danil/prettier-config-vue",
   "main": "index.config.js",
   "homepage": "https://github.com/maikovskii-danil/eslint-config-js#readme",
@@ -15,7 +15,7 @@
   "author": "maikovskii-danil",
   "devDependencies": {
     "prettier": "^3.5.3",
-    "@maikovskii-danil/prettier-config-vue": "^2.0.0"
+    "@maikovskii-danil/prettier-config-vue": "^3.0.0"
   },
   "peerDependencies": {
     "globals": "^16.2.0"
